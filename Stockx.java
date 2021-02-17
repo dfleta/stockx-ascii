@@ -16,27 +16,6 @@
  * https://stockx.com/air-jordan-1-retro-high-dark-mocha
  */
 
-package edu.pingpong.stockx;
-
-import java.util.List;
-
-import edu.pingpong.stockx.criteria.AndCriteria;
-import edu.pingpong.stockx.criteria.Asks;
-import edu.pingpong.stockx.criteria.Bids;
-import edu.pingpong.stockx.criteria.Criteria;
-import edu.pingpong.stockx.criteria.LastSale;
-import edu.pingpong.stockx.criteria.MaxBid;
-import edu.pingpong.stockx.criteria.Max;
-import edu.pingpong.stockx.criteria.MinAsk;
-import edu.pingpong.stockx.criteria.Min;
-import edu.pingpong.stockx.criteria.Sales;
-import edu.pingpong.stockx.criteria.Size;
-import edu.pingpong.stockx.item.Ask;
-import edu.pingpong.stockx.item.Bid;
-import edu.pingpong.stockx.item.Item;
-import edu.pingpong.stockx.item.Offer;
-import edu.pingpong.stockx.item.Sale;
-import edu.pingpong.stockx.item.Sneaker;
 
 public class Stockx {
 
