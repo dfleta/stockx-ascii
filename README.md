@@ -3,7 +3,7 @@ Stockx ASCII
 
 StockX nació en Detroit, y allí siguen haciendo las cosas de manera tradicional, robustas y con alma, en ASCII en la CLI.
 
-Implementa las historias de usuario de las GUI proporcionadas en la carpeta `historias de usuaria GUI`, pero en ASCII.
+Implementa las historias de usuario de las GUI proporcionadas en la carpeta [historias de usuaria GUI](https://github.com/dfleta/stockx-ascii/tree/master/historias_de_usuaria_GUI), pero en ASCII.
 
 ![Interfaz de usuario](./historias_de_usuaria_GUI/US_01.jpg "GUI Stockx")
 
