@@ -46,7 +46,7 @@ Las historias de usuario están enunciadas en el script principal `Stockx.java`
 Sigue el diagrama de clase UML proporcionado para construir la aplicación.
 Si añades algún componente, dibújalo a mano alzada sobre el diagrama.
 
-!["Diagrama de clases UML"]()
+!["Diagrama de clases UML"](./diagrama_clases_UML.png)
 
 
 ## Prepara el proyecto
