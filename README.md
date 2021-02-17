@@ -16,7 +16,7 @@ Si tienes dudas, puedes interactuar con la webapp based in London que sí que ti
 
  ## Salida de la aplicación
 
-Intenta que la salida del programa por CLI sea lo más parecida posible a las imágenes que se proporcionan.
+Intenta que la salida del programa por CLI sea lo más parecida posible a las imágenes que se proporcionan. Cada una de ellas se corresponde con una de las historias de usuario que se detallan en los epígrafes siguientes.
 
 !["Historias de usuario"](./salida_CLI/ui_01.png "sneaker info ASCII CLI")
 
